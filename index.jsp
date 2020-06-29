@@ -30,7 +30,7 @@
   }
 </style>
 <body >
-<h1>购物车byBXQ</h1>
+<h1>购物车byhan</h1>
 <table border="1" >
   <tr>
     <!--文本th-->
