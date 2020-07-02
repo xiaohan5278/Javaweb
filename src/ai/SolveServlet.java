@@ -27,7 +27,7 @@ public class SolveServlet extends HttpServlet {
         }
         String result = ai.Engine.solve24(a, b, c, d);
         request.getSession().setAttribute("result",result);
-        response.sendRedirect("index.jsp");
+        response.sendRedirect("twentyfour.jsp");
 
     }
 
